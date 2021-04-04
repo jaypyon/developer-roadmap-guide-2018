@@ -1,5 +1,3 @@
-![Web Developer Roadmap](https://i.imgur.com/7vp36nh.png)
-
 > Roadmap to becoming a web developer in 2018 (updated : 2021-04-04)
 
 >These charts were created by originally by GitHub user Kamranahmedse. They visualize three roadmaps to becoming a web developer.
